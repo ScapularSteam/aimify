@@ -3,7 +3,7 @@
 
 Aimify is an app for archers, intended to make scoring faster and less subjective, allowing you to focus on what truely matters, shooting.
 
-To find out more, please visit ![image](https://aimify.fletchworks.dev)
+To find out more, please visit ![aimify.fletchworks.dev](https://aimify.fletchworks.dev)
 
 
 ## UI Mockups
