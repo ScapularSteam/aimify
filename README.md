@@ -11,15 +11,6 @@ Aimify is an app for archers, intended to make scoring faster and less subjectiv
 
 Designed in Figma using Material V3 components from Google
 
-## Images
-
-![App Screenshot](https://github.com/ScapularSteam/aimify/blob/main/misc/aimify-marketing.png?raw=true)
-
-Example marketing demonstrating an earlier (now scrapped) UI mockup
-
-![App Screenshot](https://github.com/ScapularSteam/aimify/blob/main/misc/cvatScreenshot.png?raw=true)
-
-Screenshot from CVAT, an image annotation program
 ## Roadmap
 
 - Label dataset (in progress)
