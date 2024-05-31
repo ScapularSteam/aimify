@@ -1,0 +1,18 @@
+path: ../datasets/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: 1-Ring
+  1: 10-Ring
+  2: 2-Ring
+  3: 3-Ring
+  4: 4-Ring
+  5: 5-Ring
+  6: 6-Ring
+  7: 7-Ring
+  8: 8-Ring
+  9: 9-Ring
+  10: Arrow
