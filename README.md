@@ -42,7 +42,9 @@ The majority of archery scoring apps available today use dated UI designs, eithe
 Aimify will be built using the React Native framework via the Expo implementation, allowing for a single codebase to be deployed to both Android and IOS. In addtion, Aimify will use React Native Paper, giving acsess to hundreds of Material V3 components to build the UI from.
 ## Roadmap
 
-- Finish ML model by end of June 2024
+- Finish annotation of dataset **(Completed 31/05/2024)**
+
+- Train ML model by end of June 2024 **(Ongoing)**
 
 - Start UI by July 2024
 
