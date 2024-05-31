@@ -23,7 +23,7 @@ To find out more, please visit [aimify.fletchworks.dev](https://aimify.fletchwor
 
 ![image](https://github.com/ScapularSteam/aimify/blob/main/misc/Frame%203.png?raw=true)
 
-Figure 1: Images being labeled in CVAT, a free and open source dataset labeling tool.
+*Figure 1: Images being labeled in CVAT, a free and open source dataset labeling tool.*
 
 Machine Learning will be used throughout Aimify to facilitate a key feature: automatic scoring. 
 
@@ -35,7 +35,7 @@ The trained YoloV8 model will then be exported in the Tensorflow lite (.tflite) 
 
 ![image](https://github.com/ScapularSteam/aimify/blob/main/misc/Frame%202.png?raw=true)
 
-Figure 2: UI mockups created in Figma with the use of Material V3 components from Google.
+*Figure 2: UI mockups created in Figma with the use of Material V3 components from Google.*
 
 The majority of archery scoring apps available today use dated UI designs, either from Material V2, or earlier. To combat this, Aimify will use Material V3 (Material you) theming and components
 
@@ -58,7 +58,7 @@ Aimify will initally be marketed through word of mouth and posters
 
 ![image](https://github.com/ScapularSteam/aimify/blob/main/misc/Frame%201.png?raw=true)
 
-Figure 3: Potential marketing making use of Figma mockups.
+*Figure 3: Potential marketing making use of Figma mockups.*
 
 Posters such as the one above would cater specifically to archers by being placed at high footfall areas within clubs. This would be needed in order to gain a large enough user base for alpha testing in september prior to a wider roll out.
 ## License
