@@ -50,7 +50,8 @@ Aimify will be built using the React Native framework via the Expo implementatio
 
 - Work on backend and server-side software by August 2024
 
-- Release alpha built by September 2024
+- Release alpha build by September 2024
+  
 ## Marketing
 
 Aimify will initally be marketed through word of mouth and posters
