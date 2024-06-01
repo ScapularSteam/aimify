@@ -31,11 +31,19 @@ Through a YoloV8 model trained on a dataset consisting of over 200 images of arc
 
 The trained YoloV8 model will then be exported in the Tensorflow lite (.tflite) format, enabling on-device inferencing for an offline experience.
 
+### Current Progress
+
+![image](https://github.com/ScapularSteam/aimify/blob/main/misc/inferencing-v1.png?raw=true)
+
+*Figure 2: Current progress on arrowV1 model*
+
+The above image shows the first iteration of arrowV1. This version uses Roboflow's 3.0 instance segmentation model and is a work in progress. Using this model comes with some drawbacks, notably no easy way to download the model, and less than satisfactory result, causing approximatly 50% of the outer rings to not be masked. This can be fixed through using YoloV8 models and increasing the number of images in the dataset respectivly.
+
 ## User Interface
 
 ![image](https://github.com/ScapularSteam/aimify/blob/main/misc/Frame%202.png?raw=true)
 
-*Figure 2: UI mockups created in Figma with the use of Material V3 components from Google.*
+*Figure 3: UI mockups created in Figma with the use of Material V3 components from Google.*
 
 The majority of archery scoring apps available today use dated UI designs, either from Material V2, or earlier. To combat this, Aimify will use Material V3 (Material you) theming and components
 
@@ -58,7 +66,7 @@ Aimify will initally be marketed through word of mouth and posters
 
 ![image](https://github.com/ScapularSteam/aimify/blob/main/misc/Frame%201.png?raw=true)
 
-*Figure 3: Potential marketing making use of Figma mockups.*
+*Figure 4: Potential marketing making use of Figma mockups.*
 
 Posters such as the one above would cater specifically to archers by being placed at high footfall areas within clubs. This would be needed in order to gain a large enough user base for alpha testing in september prior to a wider roll out.
 ## License
