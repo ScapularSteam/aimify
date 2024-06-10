@@ -5,6 +5,9 @@ An archery scoring app designed to end the use of paper scoresheets by offering 
 
 To find out more, please visit [aimify.fletchworks.dev](https://aimify.fletchworks.dev)
 
+### Update: 10/06/2024
+
+Hi, I realised after speaking with a couple of people that I might have unintentionally been a touch unclear as to the progress on Aimify. As of now, I have a working ML model, and will be working to refine the output over the next few weeks. I will start working on the React Native UI after 18/06/2024 as I have exams and other issues until that date. I genuinley apologize if this was not clearer before, but this is an ongoing project.
 
 ## Features
 
