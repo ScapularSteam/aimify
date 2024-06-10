@@ -42,7 +42,7 @@ The trained YoloV8 model will then be exported in the Tensorflow lite (.tflite) 
 
 The above image shows the first iteration of arrowV1. This version uses Roboflow's 3.0 instance segmentation model and is a work in progress. Using this model comes with some drawbacks, notably no easy way to download the model, and less than satisfactory result, causing approximatly 50% of the outer rings to not be masked. This can be fixed through using YoloV8 models and increasing the number of images in the dataset respectivly.
 
-## User Interface
+## User Interface (In the backlog)
 
 ![image](https://github.com/ScapularSteam/aimify/blob/main/misc/Frame%202.png?raw=true)
 
@@ -65,6 +65,7 @@ Aimify will be built using the React Native framework via the Expo implementatio
   
 ## Marketing
 
+### Below images are for reference only and not representitive of final project
 Aimify will initally be marketed through word of mouth and posters
 
 ![image](https://github.com/ScapularSteam/aimify/blob/main/misc/Frame%201.png?raw=true)
